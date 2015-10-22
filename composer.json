@@ -1,0 +1,18 @@
+{
+	"name": "silverstripe/testsession-requestmod",
+	"type": "silverstripe-module",
+	"description": "Request modification extension to silverstripe/testsession",
+	"homepage": "http://silverstripe.org",
+	"license": "BSD-3-Clause",
+	"keywords": ["silverstripe", "testing"],
+	"authors": [
+		{
+			"name": "SilverStripe",
+			"homepage": "http://silverstripe.com"
+		}
+	],
+	"require": {
+		"silverstripe/testsession": "~0.2"
+	},
+	"minimum-stability": "dev"
+}

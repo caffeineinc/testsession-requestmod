@@ -1,0 +1,11 @@
+---
+Name: testsession-requestmod
+---
+TestSessionController:
+  extensions:
+    - RequestModControllerExtension
+Injector:
+  RequestProcessor:
+    properties:
+      filters:
+        - '%$RequestModRequestFilter'
