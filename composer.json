@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/testsession-requestmod",
+	"name": "igornadj/testsession-requestmod",
 	"type": "silverstripe-module",
 	"description": "Request modification extension to silverstripe/testsession",
 	"homepage": "http://silverstripe.org",
