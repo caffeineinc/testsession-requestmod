@@ -93,7 +93,7 @@ class RequestModRequestFilter {
 	
 	protected function delay($ms){
 		// microseconds = milliseconds * 1000
-		usleep($delayMs * 1000);
+		usleep($ms * 1000);
 	}
 	
 	protected function overrideResponse($state, $response){
